@@ -1,0 +1,1 @@
+[{"uid":"4360514a2d2ff20a","name":"positiveTc","time":{"start":1710925642435,"stop":1710925646201,"duration":3766},"status":"passed","severity":"normal"},{"uid":"50c76bdd01e99be4","name":"NegativeTC","time":{"start":1710925638055,"stop":1710925642254,"duration":4199},"status":"passed","severity":"normal"}]
