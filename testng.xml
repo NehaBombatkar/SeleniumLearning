@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ASK/IdeaProjects/LearnSelenium/src/test/java/atb4x/C3"><classes><class name="atb4x.C3.SeleniumC3001"><methods><include name="testBrowser"/></methods></class><class name="atb4x.C3.vwoLoginTest"><methods><include name="testNegative"/><include name="testPositive"/></methods></class></classes></test></suite>
